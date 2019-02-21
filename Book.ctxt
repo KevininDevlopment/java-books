@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Book
+comment1.params=bookAuthor\ bookTitle\ pages\ refNumber\ borrowed\ courseText
+comment1.target=Book(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int,\ boolean)
+comment1.text=contructor
+comment10.params=ref
+comment10.target=void\ setRefNumber(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ printAuthor()
+comment3.params=
+comment3.target=java.lang.String\ printTitle()
+comment4.params=
+comment4.target=int\ getPages()
+comment5.params=
+comment5.target=java.lang.String\ getRefNumber()
+comment6.params=
+comment6.target=int\ getBorrowed()
+comment7.params=bor
+comment7.target=void\ borrow(int)
+comment8.params=
+comment8.target=boolean\ isCourseText()
+comment9.params=
+comment9.target=void\ printDetails()
+numComments=11
